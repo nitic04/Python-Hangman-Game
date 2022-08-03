@@ -1,5 +1,4 @@
 # Python Hangman Game
-Web application that converts monetary amounts using a currency API
 
 ## Table of Contents
 * [Languages Used](#languages-used)
