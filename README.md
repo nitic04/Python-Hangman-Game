@@ -10,7 +10,7 @@
 - Python
 
 ## Setup
-1. Download the python file (main.py)
+1. Download the files
 2. Open the file in an IDE (VSCode, Replit, etc)
 
 ## Features
