@@ -83,6 +83,12 @@ def gameSequence():
 
     if option == 1:
         guess = input("\nPlease enter your guess: ")
+        while guess.isalpha() == False:
+          print("Sorry that was an invalid input! Please try again!")
+          guess = input("\nPlease enter your guess: ")
+        while len(guess) > 1:
+          print("Sorry, you can only guess one letter! Please try again!")
+          guess = input("\nPlease enter your guess: ")
     elif option == 2:
         solve = input("\nSolve the word: ")
         if solve == word:
