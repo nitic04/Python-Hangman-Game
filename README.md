@@ -25,5 +25,6 @@
 ## Updates
 - July 21st: started the project
 - August 4th update: added ability to replay the game 
-- August 8th update: added some exception handling for integer inputs, allowed for game to proceed with incorrect guesses, allowed randomization of themes and words using txt files, prohibited the same letter from being guessed multiple times
+- August 8th update: allowed for game to proceed with incorrect guesses, allowed randomization of themes and words using txt files, prohibited the same letter from being guessed multiple times
 - August 9th update: added three modes of word difficulties for both themes
+- December 27th update: added exception handling for invalid inputs involving numbers and symbols (only accept letters)
